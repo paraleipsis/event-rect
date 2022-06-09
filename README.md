@@ -14,3 +14,9 @@
 
 
 `Rect.ps1` - Вывод полученного текста в виде прямоугольника с удалением всех знаков препинания 
+
+
+Пример вывода:
+
+
+![Image alt](https://github.com/paraleipsis/repo_images/raw/main/event-rect/rect.png)
